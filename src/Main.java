@@ -96,5 +96,6 @@ public class Main {
         float yearUpCrZp = ( cUpZp * 12 ) - yearCrZp;
         System.out.print("Кристина в этом месяце получит " + cUpZp + " рублей. А годовой доход вырос на " + yearUpCrZp + " рублей.");
         //Опять же, непонятно почему в консоли не групируются выводы.
+        //Домашка.
     }
 }
